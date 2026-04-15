@@ -132,5 +132,5 @@ LICENSE
 
 ---
 
-**Author:** Manus AI
+
 **Date:** April 15, 2026
